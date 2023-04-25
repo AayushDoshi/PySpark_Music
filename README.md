@@ -1,4 +1,5 @@
-#Music Dataset Explored using PySpark.
+# Music Dataset Explored using PySpark.
+
 
 This repository contains a Python script that uses Apache Spark to analyze a dataset of music listenings. The code performs several queries on the data to extract insights about users, artists, tracks, genres, and albums. The script also uses matplotlib to visualize some of the results.
 
@@ -40,9 +41,6 @@ The script produces the following results:
 
 The results are printed to the console in tabular format, and some of them are also plotted using matplotlib.
 
-## License
-
-This code is released under the MIT License. See the `LICENSE` file for more information.
 
 Best Of Luck,
 
